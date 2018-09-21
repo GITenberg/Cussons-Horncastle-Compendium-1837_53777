@@ -1,0 +1,23 @@
+_repo: Cussons-Horncastle-Compendium-1837_53777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cussons, D.
+    gutenberg_agent_id: '47531'
+    url: http://www.gutenberg.org/2009/agents/47531
+description: ''
+gutenberg_issued: '2016-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcc 'AY'
+- !lcsh 'Almanacs'
+- GITenberg
+title: Cussons' Horncastle Compendium, 1837
+url: http://www.gutenberg.org/ebooks/53777
