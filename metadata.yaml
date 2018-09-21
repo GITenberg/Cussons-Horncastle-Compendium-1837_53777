@@ -1,11 +1,16 @@
 _repo: Cussons-Horncastle-Compendium-1837_53777
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cussons, D.
     gutenberg_agent_id: '47531'
     url: http://www.gutenberg.org/2009/agents/47531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53777#Cussons-Horncastle-Compendium-1837
 gutenberg_issued: '2016-12-20'
 gutenberg_type: Text
 identifiers:
